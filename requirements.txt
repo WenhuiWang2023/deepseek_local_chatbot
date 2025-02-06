@@ -1,0 +1,16 @@
+langchain
+ctransformers
+pypdf
+tiktoken
+langchain-community
+transformers
+sentence-transformers
+tqdm
+accelerate
+chainlit
+unidecode
+huggingface_hub
+langchain-huggingface
+pypdfium2
+pydantic==2.9.2
+langchain_ollama
